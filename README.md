@@ -2,7 +2,7 @@
 ## EXPERIMENT 1 
 (PASSPORT AUTOMATION SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%201%20PAS.docx)
 ## EXPERIMENT 2
-(Book BAnk Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/Ex%20No%202%20BBMS.docx)
+(Book Bank Registration System)-()
 ## Experiment 3
 (Exam Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%203%20ERS.docx)
 ## Experiment 4
