@@ -2,7 +2,7 @@
 ## EXPERIMENT 1 
 (PASSPORT AUTOMATION SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%201%20PAS.docx)
 ## EXPERIMENT 2
-(Book Bank Registration System)-()
+(Book Bank Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/Ex%20No%202%20BBRS.docx)
 ## Experiment 3
 (Exam Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%203%20ERS.docx)
 ## Experiment 4
@@ -22,9 +22,10 @@
 ## EXPERIMENT 11
 (CONFERENCE MANAGEMENT SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%2011%20CMS.docx)
 ## EXPERIMENT 12
-(FOREIGN TRADING SYSTEM)-()
+(FOREIGN TRADING SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%2012%20FTS.docx)
 ## EXPERIMENT 13
 (BPO Management system)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%2013%20BPOMS.docx)
 ## EXPERIMENT 14
 
 ## EXPERIMENT 15
+(Book Bank Management System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/Ex%20NO%2015%20BBMS.docx)
