@@ -20,7 +20,7 @@
 ## Experiment 10
 (Recruitment System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20no%2010%20RS.docx)
 ## EXPERIMENT 11
-(CONFERENCE MANAGEMENT SYSTEM)-()
+(CONFERENCE MANAGEMENT SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%2011%20CMS.docx)
 ## EXPERIMENT 12
 (FOREIGN TRADING SYSTEM)-()
 ## EXPERIMENT 13
