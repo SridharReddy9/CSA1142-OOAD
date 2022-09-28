@@ -10,12 +10,12 @@
 ## Experiment 5
 (Online Course Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%205%20OCRS.docx)
 ## Experiment 6
-(E-Ticketing)-()
+(E-Ticketing)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%206%20E-T.docx)
 ## Experiment 7
-(Credit Card Processing System)-()
+(Credit Card Processing System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%207%20%20CCPS.docx)
 ## Experiment 8
-(Softwar Personnel Management System)-()
+(Softwar Personnel Management System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%208%20%20SPMS.docx)
 ## Experiment 9
-(E-Book Mangement System)-()
+(E-Book Mangement System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%209%20E-BMS.docx)
 ## Experiment 10
-(Recruitment System)-()
+(Recruitment System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20no%2010%20RS.docx)
