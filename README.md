@@ -19,3 +19,12 @@
 (E-Book Mangement System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%209%20E-BMS.docx)
 ## Experiment 10
 (Recruitment System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20no%2010%20RS.docx)
+## EXPERIMENT 11
+(BPO Management system)-()
+## EXPERIMENT 12
+
+## EXPERIMENT 13
+
+## EXPERIMENT 14
+
+## EXPERIMENT 15
