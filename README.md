@@ -1,10 +1,10 @@
 # CSA1142-OOAD (192111283)
-## EXPERIMENT 1 
-(PASSPORT AUTOMATION SYSTEM)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%201%20PAS.docx)
-## EXPERIMENT 2
-(Book Bank Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/Ex%20No%202%20BBRS.docx)
-## Experiment 3
-(Exam Registration System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%203%20ERS.docx)
+## EXPERIMENT 1: PASSPORT AUTOMATION SYSTEM 
+(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%201%20PAS.docx)
+## EXPERIMENT 2: BOOK BANK REGISTRATION SYSTEM
+(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/Ex%20No%202%20BBRS.docx)
+## Experiment 3: EXAM REGISTRATION SYSTEM
+(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%203%20ERS.docx)
 ## Experiment 4
 (Stock Maintanance System)-(https://github.com/SridharReddy9/CSA1142-OOAD/blob/main/EX%20NO%20%204%20SMS.docx)
 ## Experiment 5
